@@ -30,4 +30,4 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 <img 
      
   src="https://i.ibb.co/2dx4fvx/191510016-Mohit-Vaishnav-S-191510012-Kritarth-Singh-S-191530003-Ayush-KSaxena-T-191550056-Nishchay-S.jpg"
-  style="width: 1000px; height: 500px"/>
+  style="width: 1000px; height: 500px"   />
