@@ -27,6 +27,6 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 
 ## User Interface
 
-<a href="https://ibb.co/vqFyJjm"><img src="https://i.ibb.co/vqFyJjm/191510016-Mohit-Vaishnav-S-191510012-Kritarth-Singh-S-191530003-Ayush-KSaxena-T-191550056-Nishchay-S.jpg" alt="191510016-Mohit-Vaishnav-S-191510012-Kritarth-Singh-S-191530003-Ayush-KSaxena-T-191550056-Nishchay-S" border="0"></a>
-
 <a href="https://ibb.co/2dx4fvx"><img src="https://i.ibb.co/2dx4fvx/191510016-Mohit-Vaishnav-S-191510012-Kritarth-Singh-S-191530003-Ayush-KSaxena-T-191550056-Nishchay-S.jpg" alt="191510016-Mohit-Vaishnav-S-191510012-Kritarth-Singh-S-191530003-Ayush-KSaxena-T-191550056-Nishchay-S" border="0"></a>
+
+<a href="https://ibb.co/vqFyJjm"><img src="https://i.ibb.co/vqFyJjm/191510016-Mohit-Vaishnav-S-191510012-Kritarth-Singh-S-191530003-Ayush-KSaxena-T-191550056-Nishchay-S.jpg" alt="191510016-Mohit-Vaishnav-S-191510012-Kritarth-Singh-S-191530003-Ayush-KSaxena-T-191550056-Nishchay-S" border="0"></a>
