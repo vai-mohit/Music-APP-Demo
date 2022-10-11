@@ -1,3 +1,11 @@
+
+# Music App Demo
+ I created this project on expo.io
+
+### Description
+A fun, interactive music experience
+Incredibox is a music app that lets you create your own music with the help of a merry crew of beatboxers.Choose your musical style among 8 impressive atmospheres and start to lay down, record and share your mix.  drop icons onto the avatars to make them sing and start to compose your own music. Find the right sound combos to unlock animated choruses that will enhance your tune.
+=======
 # Music App 
 Software that plays audio files encoded in MP3 and other audio formats
 
@@ -37,4 +45,4 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 <a href="https://ibb.co/2dx4fvx"><img src="https://i.ibb.co/2dx4fvx/191510016-Mohit-Vaishnav-S-191510012-Kritarth-Singh-S-191530003-Ayush-KSaxena-T-191550056-Nishchay-S.jpg" alt="191510016-Mohit-Vaishnav-S-191510012-Kritarth-Singh-S-191530003-Ayush-KSaxena-T-191550056-Nishchay-S" border="0"></a>
 
 <a href="https://ibb.co/vqFyJjm"><img src="https://i.ibb.co/vqFyJjm/191510016-Mohit-Vaishnav-S-191510012-Kritarth-Singh-S-191530003-Ayush-KSaxena-T-191550056-Nishchay-S.jpg" alt="191510016-Mohit-Vaishnav-S-191510012-Kritarth-Singh-S-191530003-Ayush-KSaxena-T-191550056-Nishchay-S" border="0"></a>
-=======
+
