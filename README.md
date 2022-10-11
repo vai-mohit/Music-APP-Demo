@@ -7,6 +7,12 @@ Software that plays audio files encoded in MP3 and other audio formats
 3. Allow users to create playlists of their favourite songs. 
 4. Has a large collections of songs. 
  
+ 
+ The following things you will learn in this article:
+
+Implementing MediaPlayer class and using its methods like pause, play and stop.
+Using external files(images, audios, etc) in our project.
+Building the interface of our Music Player Android App.
 
 ## Authors
 
