@@ -46,3 +46,10 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 
 <a href="https://ibb.co/vqFyJjm"><img src="https://i.ibb.co/vqFyJjm/191510016-Mohit-Vaishnav-S-191510012-Kritarth-Singh-S-191530003-Ayush-KSaxena-T-191550056-Nishchay-S.jpg" alt="191510016-Mohit-Vaishnav-S-191510012-Kritarth-Singh-S-191530003-Ayush-KSaxena-T-191550056-Nishchay-S" border="0"></a>
 
+Music Streaming Apps
+Such apps as Soundcloud, Spotify, and Apple Music are the most widely used music streaming apps. The primary purpose of the music streaming application is to play music available in the databases of the service, compose custom playlists and suggest similar songs. The main elements of music streaming apps are:
+
+Discovery. The central component of user engagement is the availability of the music and the ability to discover similar genres. 
+Recommendations. To provide users with more relevant recommendations you need to implement a recommender engine to your music streaming app.
+Personalization and deep categorization. The music can be sorted by period, genre, performer association (solo albums of band members) or by more ephemeral characteristics such as mood (happy, sad, romantic), tone (dark, brooding, sunshiny), or pace (fast, slow, waltz) of the compositions.
+Social networking. You can apply custom playlists as promotional or educational tools. Thus, users can share playlists with friends via social media platforms.
