@@ -53,3 +53,11 @@ Discovery. The central component of user engagement is the availability of the m
 Recommendations. To provide users with more relevant recommendations you need to implement a recommender engine to your music streaming app.
 Personalization and deep categorization. The music can be sorted by period, genre, performer association (solo albums of band members) or by more ephemeral characteristics such as mood (happy, sad, romantic), tone (dark, brooding, sunshiny), or pace (fast, slow, waltz) of the compositions.
 Social networking. You can apply custom playlists as promotional or educational tools. Thus, users can share playlists with friends via social media platforms.
+
+This app is made using React-Native
+#React Native:
+Create native apps for Android and iOS using React
+Written in JavaScript—rendered with native code
+Native Development For Everyone
+
+
